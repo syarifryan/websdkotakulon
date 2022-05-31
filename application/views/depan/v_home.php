@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>M School - Selamat Datang di M School</title>
+    <title>SDN KOTAKULON 1 - Selamat Datang di Website SDN KOTAKULON 1</title>
     <link rel="shorcut icon" href="<?php echo base_url().'theme/images/icon.png'?>">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo base_url().'theme/css/bootstrap.min.css'?>">
@@ -37,13 +37,13 @@
                 <div class="col-xs-6 col-sm-8 col-md-9">
                     <div class="header-top_address">
                         <div class="header-top_list">
-                            <span class="icon-phone"></span>00 55 22 66
+                            <span class="icon-phone"></span>0812345
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-envelope-open"></span>info@mschool.com
+                            <span class="icon-envelope-open"></span>sdnkotakulon1@gmail.com
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-location-pin"></span>Padang, Sumatera Barat, INA. 11001
+                            <span class="icon-location-pin"></span>Bondowoso, Jawa Timur, Indonesia. 68251
                         </div>
                     </div>
                     <div class="header-top_login2">
@@ -66,7 +66,7 @@
                         <button class="navbar-toggler navbar-toggler2 navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
                             <span class="icon-menu"></span>
                         </button>
-                        <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="200px;" src="<?php echo base_url().'theme/images/logo-dark.png'?>"></a>
+                        <a href="<?php echo site_url('');?>" class="navbar-brand nav-brand2"><img class="img img-responsive" width="75px;" src="<?php echo base_url().'theme/images/logo.png'?>"></a>
                         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -116,7 +116,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img class="d-block" src="<?php echo base_url().'theme/images/slider.jpg'?>" alt="First slide">
+                    <img class="d-block" src="<?php echo base_url().'theme/images/y.jpeg'?>" alt="First slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
                             <h1>Bepikir Kreaftif &amp; Inovatif</h1>
@@ -128,7 +128,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block" src="<?php echo base_url().'theme/images/slider-2.jpg'?>" alt="Second slide">
+                    <img class="d-block" src="<?php echo base_url().'theme/images/z.jpeg'?>" alt="Second slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
                             <h1>Guru Bekualitas Tinggi</h1>
@@ -140,7 +140,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block" src="<?php echo base_url().'theme/images/slider-3.jpg'?>" alt="Third slide">
+                    <img class="d-block" src="<?php echo base_url().'theme/images/bg-1.png'?>" alt="Third slide">
                     <div class="carousel-caption d-md-block">
                         <div class="slider_title">
                             <h1>Proses Belajar Interatif</h1>
@@ -169,12 +169,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-               <h2>Welcome</h2>
-               <p>Kami Menyambut baik terbitnya Website MSCHOOL yang baru , dengan harapan dipublikasinya website ini sekolah berharap : Peningkatan layanan pendidikan kepada siswa, orangtua, dan masyarakat pada umumnya semakin meningkat. </p>
+               <h2>Selamat Datang </h2>
+               <p>Official Website SDN KOTAKULON 1 ini kami sediakan untuk  </p>
 
             </div>
             <div class="col-md-4">
-                <img src="<?php echo base_url().'theme/images/welcome.png'?>" class="img-fluid about-img" alt="#">
+                <img src="<?php echo base_url().'theme/images/201x183.png'?>" class="img-fluid about-img" alt="#">
             </div>
         </div>
     </div>
@@ -304,9 +304,9 @@
             <div class="col-md-3">
                 <div class="foot-logo">
                     <a href="<?php echo site_url();?>">
-                        <img src="<?php echo base_url().'theme/images/logo-white.png'?>" class="img-fluid" alt="footer_logo">
+                        <img src="<?php echo base_url().'theme/images/logo.png'?>" class="img-fluid" alt="footer_logo">
                     </a>
-                    <p><?php echo date('Y');?> © copyright by <a href="http://mfikri.com" target="_blank">M Fikri</a>. <br>All rights reserved.</p>
+                    <p><?php echo date('Y');?> ©  <a href="http://sim-online.polije.ac.id" target="_blank">SDN Kotakulon 1</a>. <br>Lorem ipsum dolor sit amet.</p>
                     </div>
                 </div>
                 <div class="col-md-3">
